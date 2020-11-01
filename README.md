@@ -245,8 +245,7 @@ CG 기술이 영화 속 캐릭터에까지 직접 반영된 디지털캐릭터�
 1990년대 중반 이후, CG에 기초한 VFX는 누구나 이 장면이 CG를 썼다는 것을 알 수 있도록 드러내기보다, 이것이 실사 촬영인지 CG인지 구분할 수 없도록 영화 전반에 스며들어가기 시작했다. 
 
 영화 역사상 최대 흥행기록을 세운 〈타이타닉(Titanic)〉(1997)의 경우 타이타닉 모형 촬영과 CG 장면 사이의 이음새를 찾기가 어려우며, 〈매트릭스〉(1999), 
-〈해리 포터(Harry Porter)〉시리즈(2001~2011),
-〈반지의 제왕〉시리즈(2001~2003)에 이르면, 분명히 그것이 현실에 존재하지 않은 환상적 장면임에도 불구하고 실제 로케이션 촬영을 한 것 같은 착각을 불러일으킬 정도로 사실감이 높아졌다. 
+해피포터 시리즈<2001-2011> ,  반지의 제왕 시리즈 에 이르면 , 분명히 그것이 현실에 존재하지 않은 환상적 장면임에도 불구하고 실제 로케이션 촬영을 한 것 같은 착각을 불러일으킬 정도로 사실감이 높아졌다. 
 
 
 ![ㄹㅇㄴ](https://lh3.googleusercontent.com/proxy/jTeeaOQJJLbFKrGy7cD2doWmUkSSMNNQvPn3EzSIXLYAVAqJ9LSCfMGscDVMrW5klgTN1WVLDHatCazzlWcJT3I1cQwJgwl3mJBHdwQQzuIpwVbuyOqeB75_otkj4kbwBCqs8vJviMM_DpXK)
