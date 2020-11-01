@@ -239,3 +239,63 @@ CG 기술이 영화 속 캐릭터에까지 직접 반영된 디지털캐릭터�
 
 
 ![ㄹㅇㄴ](https://lh3.googleusercontent.com/proxy/snL68BNNWdGPUlHFsaNklY2_QSWSeJG6FF2HjtxhTz4G7l7GYyFNsK0675GKACMEVUOzA2H1Iho1YjexS8NzUheJE7Wus9uvpyARWRp0bI5-brTrhUt4URxqWUjk5hXOIfyzZ3GrK57xRyVJ)
+
+## 2_8. 2000년도 
+
+1990년대 중반 이후, CG에 기초한 VFX는 누구나 이 장면이 CG를 썼다는 것을 알 수 있도록 드러내기보다, 이것이 실사 촬영인지 CG인지 구분할 수 없도록 영화 전반에 스며들어가기 시작했다. 
+
+영화 역사상 최대 흥행기록을 세운 〈타이타닉(Titanic)〉(1997)의 경우 타이타닉 모형 촬영과 CG 장면 사이의 이음새를 찾기가 어려우며, 〈매트릭스〉(1999), 〈해리 포터(Harry Porter)〉시리즈(2001~2011), 〈반지의 제왕〉시리즈(2001~2003)에 이르면, 분명히 그것이 현실에 존재하지 않은 환상적 장면임에도 불구하고 실제 로케이션 촬영을 한 것 같은 착각을 불러일으킬 정도로 사실감이 높아졌다. 
+![ㄹㅇㄴ](https://lh3.googleusercontent.com/proxy/jTeeaOQJJLbFKrGy7cD2doWmUkSSMNNQvPn3EzSIXLYAVAqJ9LSCfMGscDVMrW5klgTN1WVLDHatCazzlWcJT3I1cQwJgwl3mJBHdwQQzuIpwVbuyOqeB75_otkj4kbwBCqs8vJviMM_DpXK)
+
+![ㄹㅇㅁ](https://img.extmovie.com/files/attach/images/174/953/251/006/46868452afe23f96e7c77370df81097b.jpg)
+
+그리하여 〈킹콩〉(2005)에서의 킹콩과 〈나니아 연대기(The Chronicles Of Narnia: The Lion, The Witch & The Wardrobe)〉(2005)의 사자 아슬란에 이르면, 100% CG 작업에 의해 제작된 디지털 액터가 인간 배우들을 제치고 주연의 위치까지 오르게 되었다
+
+영화 속 디지털 액터가 실사배우와 거의 근접한 지위까지 올라가는 한편, 같은 시기에 배우만 실사배우이되, 그 밖에 모든 것은 100% CG 작업으로 해결하는 일명 '스크린 영화'도 나타나기 시작하였다. 스크린 영화에서 배우들은 블루, 혹은 그린 스크린 앞에서 상상에 근거해서 연기를 하고, 실제 시각화는 CG로 만들어진 배경과의 합성을 통해서야 비로소 가능해진다.
+
+![ㄹㅇㄴㅁ](https://dbscthumb-phinf.pstatic.net/4548_000_1/20160812113411746_8IHFQC43J.jpg/ka36_2_i16.jpg?type=w406_fst&wm=N)
+
+
+2004년 공개된 〈월드 오브 투모로우(Sky Captain And The World Of Tomorrow)〉는 영화의 모든 배경을 CG로 처리한 최초 의 100% 스크린 영화였다. 그 뒤를 〈씬시티(Sin City)〉(2005)가 이었다. 헐리우드 이외에 일본에서도 〈캐산(Casshern)〉(2004)을 통해 같은 시도가 이루어졌다.
+
+
+## 2_8. 앞으로 vfx의 전망
+
+초창기의 VFX 산업에서는 컴퓨터의 속도와 소프트웨어가 현재와 같이 발달되지 않아 많은 인력과 많은 시간과 비용이 들었습니다.
+대형 스튜디오와 감독들은 VFX를 이용 최고의 수익을 올리면서 그 추세는 2000년까지 계속되어 왔으며, 할리우드가 중심지였습니다.
+
+컴퓨터의 발전과 소프트웨어의 발전으로 인해 VFX 산업은 서서히 할리우드 밖으로 확대되었으며, 세금혜택이 VFX 산업발전의 촉매제가 되었습니다.
+또한 VFX 영화가 많은 관객을 동원하지 않는다는 사실을 안 프로듀서들은, VFX 비용을 절감하기 위해 할리우드를 벗어나기 시작하였습니다.
+
+
+VFX는 디지털 혁명에서 혼합 현실에 이르기까지 항상 기술 분야의 창의적인 발전의 최전선에 있습니다. 
+VFX 회사는 AI 딥 페이크 기술의 사용을 개척하고 있습니다. 최근 Disney + 히트작 The Mandalorian에서 볼 수 있듯이,
+그린 스크린이 아닌 CG 배경을 투사하는 LED 스크린을 배경으로 라이브 액션을 촬영하는 것과 같은 혁신적인 새로운 제작 기술은 VFX를 제작 파이프 라인에 앞장서고 있습니다.
+
+
+     
+
+
+* 출처 
+* https://it.donga.com/21254/
+* https://terms.naver.com/entry.nhn?docId=2834230&cid=43659&categoryId=43659
+* https://terms.naver.com/entry.nhn?docId=3434977&categoryId=58460&cid=58460&tkFrom=tlist&tkListId=639343&tkTocId=811577&tkSort=
+* https://terms.naver.com/entry.nhn?docId=3434978&cid=58460&categoryId=58460
+* https://www.inverse.com/article/28410-king-kong-visual-effects-hist
+* https://www.scienceall.com/영화-속-특수시각효과의-세계/*
+* https://www.vfxvoice.com/the-future-of-vfx-industry-leaders-look-ahead/
+* http://www.kocca.kr/cop/bbs/view/B0158950/1811019.do?menuNo=203781
+
+
+
+
+
+
+
+
+
+
+
+
+
+
